@@ -10,13 +10,18 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Resources",
-      "url": "/resources",
+      "text": "About",
+      "url": "/about",
       "external": false
     },
     {
-      "text": "About",
-      "url": "/about",
+      "text": "Contact",
+      "url": "/contact",
+      "external": false
+    },
+    {
+      "text": "Resources",
+      "url": "/resources",
       "external": false
     }
   ],
